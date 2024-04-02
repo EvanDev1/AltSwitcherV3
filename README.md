@@ -9,4 +9,5 @@ Have fun :D
 I did put up the raw Python script for this program so that you can look through the code and deem it as safe for yourself. You can also just download Python and run the Python file itself if you don't feel uncomfortable running the exe :D
 
 ## Download
-Click on the AltSwitcherV3.exe file, then hit ctrl+shift+s to save it, or you can click on the little 3 dots (...) and then click download.
+1. Click on the AltSwitcherV3.exe file, then hit ctrl+shift+s to save it, or you can click on the little 3 dots (...) and then click download. /n
+2. Use RobloxAccountManager (https://github.com/ic3w0lf22/Roblox-Account-Manager/tree/master?tab=readme-ov-file) to launch all of your alts, and then run this file.
